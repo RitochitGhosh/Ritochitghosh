@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=100&color=74D75EFD&background=FFFFFF&random=false&width=436&height=53&lines=Hello+Viewer;Welcome+to+my+profile;I+am+interested+in+learning+new+things;Thank+you+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=100&color=74D75EFD&background=FFFFFF&random=false&width=550&height=53&lines=Hello+Viewer;Welcome+to+my+profile;I+am+interested+in+learning+new+things;Thank+you+for+visiting)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritochitghosh&label=Profile%20views&color=0e75b6&style=flat" alt="ritochitghosh" /> </p>
 
