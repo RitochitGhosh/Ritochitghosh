@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> RITOCHIT GHOSH</h1>2
+<h2> RITOCHIT GHOSH</h2>
 <!--
 **RitochitGhosh/Ritochitghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
